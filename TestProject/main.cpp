@@ -7,5 +7,7 @@ int main()
 	scanf("%d", &number);
 	int result = CalculateOddSum(number);
 	printf("result %d\n", result);
+
+	printf("new\n");
 	return 0;
 }
